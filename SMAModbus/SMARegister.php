@@ -739,6 +739,6 @@ class SMARegister
         *        'profile' => 'Watt'
         *    ]
         *]
-        */
-    ];
+  *  ];
+  */
 }
