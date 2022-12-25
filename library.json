@@ -1,10 +1,9 @@
 {
-  "id": "{B2D91E5E-1569-407B-9E33-E5E0825A507F}",
-  "author": "CodeKing",
+  "id": "{E25921FB-6F35-D13E-7D84-6ECB4F84E369}",
+  "author": "Lugge Lex",
   "name": "SMA Modbus",
-  "url": "https://codeking.de",
-  "compatibility": {
-    "version": "4.4"
+    "compatibility": {
+    "version": "6.3"
   },
   "version": "1.1",
   "build": 0,
