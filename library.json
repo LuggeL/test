@@ -1,11 +1,12 @@
 {
-  "id": "{E25921FB-6F35-D13E-7D84-6ECB4F84E369}",
-  "author": "Lugge Lex",
-  "name": "SMA Modbus",
+    "id": "{34FD7866-9528-E3AD-1A0A-0E4933EFDCBA}",
+    "name": "Ludwig Lex",
+    "author": "Lugge Lex",
+    "url": "",
     "compatibility": {
-    "version": "4.4"
-  },
-  "version": "1.0",
-  "build": 0,
-  "date": 0
+        "version": "6.0"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
 }
